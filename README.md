@@ -3,9 +3,7 @@
 <a href="https://github.com/alefecvo/">
   <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
 </a>
-<a href="https://www.linkedin.com/in/%C3%A1lefe-cardozo-silva-64a1a067?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios">
-  <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+
 
 - 🌎 I'm **Brazilian** of **Minas Gerais** state and of **Curvelo** city.
 
@@ -55,3 +53,14 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+**Contact:**
+
+**Medium**
+[https://medium.com/@alefecardozo]
+
+**Linkedin**
+
+[https://www.linkedin.com/in/%C3%A1lefe-cardozo-silva-64a1a067?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios)https://www.linkedin.com/in/%C3%A1lefe-cardozo-silva-64a1a067?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios]
+
+
