@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Álefe Cardozo Silva</h1>
+<h1 align="center">Hi, I'm Álefe Cardozo Silva</h1>
 
 <a href="https://github.com/alefecvo/">
   <img align="right" alt="Github" width="22px" src="https://user-images.githubusercontent.com/50798883/196443439-71fee3b1-2665-451c-a8e0-9d322803b4f7.png" />
@@ -9,9 +9,9 @@
 
 - 🌎 I'm **Brazilian** of **Minas Gerais** state and of **Curvelo** city.
 
-- Nowadays I'm **Specialist QA Engineer on ZUP IT INOVATION.** and have 10 years of experience of Software Engineering in quality focus.
+- Nowadays I'm **Specialist Quality Engineer on ZUP IT INOVATION.** and had 10 years of experience of Software Engineering with Quality focus.
 
-- 🔭 Actualyt, I work with manual and automated to backend api and frontend web/mobile tests, no-functional tests as performance and help others people to growph on carrear.
+- 🔭 Actualyt, I work with manual and automated to backend API and frontend WEB/MOBILE tests, no-functional tests as performance and help others people to growph on carrear.
 
 - 🌱 I alredy worked with the tecnologies **C# | Selenium | Restsharp | NUnit** and actualy I work with tecnologies **Java | Restassured | JUnit | Cucumber | Python | Robotframework | Appium | Cucumber | Github Actions | AWS**
 
