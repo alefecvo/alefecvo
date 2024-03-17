@@ -9,7 +9,7 @@
 
 - Nowadays I'm **Specialist Quality Engineer on Zup IT Innovation.** and had 10 years of experience of Software Engineering with Quality focus.
 
-- 🔭 Actualy, I work with manual and automated to backend API and frontend Web/Mobile tests, no-functional tests as performance and help others people to growph on carrear.
+- 🔭 Actualy, I work with manual and automated to backend API and frontend Web/Mobile tests, no-functional tests as performance tests and help others people to growph on carrear.
 
 - 🌱 I alredy worked with the tecnologies **C# | Selenium | Restsharp | NUnit** and actualy I work with tecnologies **Java | Restassured | JUnit | Cucumber | Python | Robotframework | Appium | Cucumber | Github Actions | AWS**.
 
